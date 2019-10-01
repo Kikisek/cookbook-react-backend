@@ -1,0 +1,14 @@
+{
+  "name": "cookbook-react-backend",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=10.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server/app.js"
+  }
+}
